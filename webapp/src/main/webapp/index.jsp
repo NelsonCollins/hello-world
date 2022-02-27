@@ -6,8 +6,8 @@
   <body>
     <form action="action_page.php">
       <div class="container">
-        <h1 style="align-items: center;">New user Registeration for Nelson DevOps Training</h1>
-        <p style="align-items: center;">Kindly fill the form below to create an account.</p>
+        <h1>New user Registeration for Nelson DevOps Training</h1>
+        <p class="top">Kindly fill the form below to create an account.</p>
         <hr>
          
         <label for="Name"><b>Enter Name</b></label>
@@ -40,7 +40,7 @@
         <p>Already have an account? <a href="#">Sign in</a>.</p>
       </div>
     
-       <h5 style="align-items: center; border: 1px grey;"> Thankyou, Happy Learning </h5>
+       <h5> Thankyou, Happy Learning </h5>
     
       
     </form>
